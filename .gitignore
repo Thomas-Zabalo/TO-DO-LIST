@@ -1,0 +1,13 @@
+# Dossiers à ignorer
+node_modules/
+coverage/
+
+# Fichiers à ignorer
+.env
+
+# Fichiers spécifiques à ignorer pour les éditeurs
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.DS_Store
